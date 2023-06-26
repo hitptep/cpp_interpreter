@@ -1,0 +1,13 @@
+# ninja log v5
+1	244	1687770352311371153	CMakeFiles/interpreter.dir/main.cpp.o	b65967c542b7e4c2
+1	686	1687765706166561929	CMakeFiles/interpreter.dir/executor/executor.cpp.o	87e68a6b36f8ca1a
+0	17	1687770751005850005	build.ninja	6436444556daa096
+2	22	1687751167546655666	CMakeFiles/interpreter.dir/node/node.cpp.o	639ab3ae0ce1cd33
+3	177	1687765705659895268	CMakeFiles/interpreter.dir/memory/memory_manager.cpp.o	5f7bf23e7faa5636
+1	205	1687768661267317334	CMakeFiles/interpreter.dir/lexer/lexer.cpp.o	3c47c3fa939d0496
+21	104	1687751185923322145	interpreter	fa43a623a8f644a5
+0	182	1687770540873669761	CMakeFiles/interpreter.dir/parser/parser.cpp.o	3204b699f96d3649
+2	187	1687768661250650759	CMakeFiles/interpreter.dir/token/token.cpp.o	2658d4fc18097435
+1	190	1687768661253984074	CMakeFiles/interpreter.dir/ast/abstract_syntax_tree.cpp.o	a52c9daf39a83884
+1	203	1687770772922396406	CMakeFiles/interpreter.dir/ast/node.cpp.o	90bd615365f207f2
+203	280	1687770772999062652	interpreter	9dedbfe48b59afe5

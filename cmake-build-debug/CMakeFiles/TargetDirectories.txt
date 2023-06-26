@@ -1,0 +1,3 @@
+/home/zzy/文档/Programs/interpreter/cmake-build-debug/CMakeFiles/interpreter.dir
+/home/zzy/文档/Programs/interpreter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zzy/文档/Programs/interpreter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
