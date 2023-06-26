@@ -1,6 +1,6 @@
 #include <stdexcept>
 #include "parser.h"
-#include "../ast/node.h"
+
 // 构造函数
 Parser::Parser(Lexer& lexer)
         : lexer_(lexer), current_token_(lexer.GetNextToken()) {}

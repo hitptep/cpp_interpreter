@@ -11,3 +11,16 @@
 1	190	1687768661253984074	CMakeFiles/interpreter.dir/ast/abstract_syntax_tree.cpp.o	a52c9daf39a83884
 1	203	1687770772922396406	CMakeFiles/interpreter.dir/ast/node.cpp.o	90bd615365f207f2
 203	280	1687770772999062652	interpreter	9dedbfe48b59afe5
+1	211	1687771272339655881	CMakeFiles/interpreter.dir/ast/abstract_syntax_tree.cpp.o	a52c9daf39a83884
+1	265	1687771272392988921	CMakeFiles/interpreter.dir/main.cpp.o	b65967c542b7e4c2
+1	178	1687771284172924280	CMakeFiles/interpreter.dir/ast/abstract_syntax_tree.cpp.o	a52c9daf39a83884
+1	180	1687771284176257595	CMakeFiles/interpreter.dir/parser/parser.cpp.o	3204b699f96d3649
+2	207	1687771284202924115	CMakeFiles/interpreter.dir/ast/node.cpp.o	90bd615365f207f2
+2	249	1687771284242923896	CMakeFiles/interpreter.dir/main.cpp.o	b65967c542b7e4c2
+249	330	1687771284322923457	interpreter	9dedbfe48b59afe5
+1	209	1687771324886034202	CMakeFiles/interpreter.dir/parser/parser.cpp.o	3204b699f96d3649
+209	300	1687771324976033708	interpreter	9dedbfe48b59afe5
+1	172	1687771379205736126	CMakeFiles/interpreter.dir/ast/node.cpp.o	90bd615365f207f2
+172	267	1687771379302402262	interpreter	9dedbfe48b59afe5
+0	192	1687771415938867888	CMakeFiles/interpreter.dir/parser/parser.cpp.o	3204b699f96d3649
+192	278	1687771416022200764	interpreter	9dedbfe48b59afe5
